@@ -1,0 +1,1 @@
+export '../moves/flamethrower.dart';
